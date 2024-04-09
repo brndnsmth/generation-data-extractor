@@ -1,8 +1,6 @@
 # Generation Data Extractor
 
-Export metadata from images to .txt files. Built for images generated from Kohya.
-
-https://github.com/bmaltais/kohya_ss
+Export metadata from images to .txt files. Built for images generated with Stable Diffusion.
 
 ## Usage
 
